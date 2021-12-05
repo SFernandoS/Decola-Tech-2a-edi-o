@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace ConsoleApp1
+namespace Firts
 {
    class Program
     {
         static void Main()
         {
-            Console.WriteLine("Hello Word!");
+            Console.WriteLine("Hello World!");
         }
     }
 }
