@@ -12,8 +12,6 @@ nupkg/
 .idea
 
 # User-specific files
-*.sln
-*.csproj
 *.suo
 *.user
 *.userosscache
